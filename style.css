@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  align-content: center;
+  overflow-y: scroll;
+}
+
+p {
+    width: 400px;
+    margin: auto;
+}
+
+img {
+    width: 400px;
+}
